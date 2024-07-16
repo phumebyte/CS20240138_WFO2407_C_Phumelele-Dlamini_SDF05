@@ -65,13 +65,28 @@ p {
 }
 
 @keyframes btn-1 {
-    
+    0% {
+
+    }
+    100% {
+
+    }
 }
 
 @keyframes btn-2 {
-    
+   0% {
+
+    }
+    100% {
+        
+    } 
 }
 
 @keyframes btn-3 {
-    
+    0% {
+
+    }
+    100% {
+        
+    }
 }
