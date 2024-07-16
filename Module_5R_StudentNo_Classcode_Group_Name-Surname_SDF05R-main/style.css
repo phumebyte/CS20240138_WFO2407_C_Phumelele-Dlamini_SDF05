@@ -52,24 +52,45 @@ p {
 }
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
+/* FLOATING BUTTON - rose inspired*/
 .btn-1 {
     animation-name: btn-1;
+    background-color: #a20417;
+    color: #004019;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    box-shadow: 0 20px 20px 0 #007144;
 }
 
+/* SHRINKING BUTTON - barbie inspired*/
 .btn-2 {
     animation-name: btn-2;
+    background-color: #FFC0CB;
+    color: #8B008B;
+    font-family: 'Arial Rounded MT Bold', 'Helvetica Rounded', sans-serif;
+    font-weight: 700;
+    font-style:italic;
+    border: 5px solid #FC1392;
+    border-radius: 20px;
 }
 
+/* GLOWING BUTTON - earthy tones*/
 .btn-3 {
     animation-name: btn-3;
+    background-color: #4E6336;
+    color: #E9CC9C; 
+    font-family: georgia, serif;
+    box-shadow: 0 4px 8px 0 #BA4D41;
+    border: 3px solid #F09B32;
+    border-radius: none;
 }
 
 @keyframes btn-1 {
     0% {
 
-    }
+    } 
     100% {
-
+      
     }
 }
 
