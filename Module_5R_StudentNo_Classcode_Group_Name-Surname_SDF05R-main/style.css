@@ -53,13 +53,25 @@ p {
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
 .btn-1 {
-
+    animation-name: btn-1;
 }
 
 .btn-2 {
-
+    animation-name: btn-2;
 }
 
 .btn-3 {
+    animation-name: btn-3;
+}
+
+@keyframes btn-1 {
+    
+}
+
+@keyframes btn-2 {
+    
+}
+
+@keyframes btn-3 {
     
 }
