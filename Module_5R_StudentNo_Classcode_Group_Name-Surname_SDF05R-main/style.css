@@ -77,11 +77,11 @@ p {
 
 /* GLOWING BUTTON - earthy tones*/
 .btn-3 {
-    animation: btn-3 1.5s ease infinite alternate;
+    animation: btn-3 1s ease-in-out infinite alternate;
     background-color: #4E6336;
     color: #E9CC9C; 
     font-family: georgia, serif;
-    box-shadow: 0 0 5px #BA4D41;
+    box-shadow: 0 0 5px 2px #BA4D41;
     border: 3px solid #F09B32;
     border-radius: none;
 }
